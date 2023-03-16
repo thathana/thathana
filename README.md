@@ -1,12 +1,5 @@
-### hihi 👋
-## i love physics
-# hey guys
-*books* 
-**books**
-*one 
-*two
-*three
-(lions)[https://www.smithsonianmag.com/science-nature/the-truth-about-lions-11558237/]
+##hi there
+
 <!--
 **thathana/thathana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
